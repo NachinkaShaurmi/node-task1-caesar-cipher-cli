@@ -39,7 +39,6 @@ function encryption(text, shift, mode) {
       }
     });
   }
-  console.log(res);
   return res;
 }
 
