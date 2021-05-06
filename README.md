@@ -1,7 +1,9 @@
 ## First of all:
-Clone this repo **https://github.com/NachinkaShaurmi/node-task1-caesar-cipher-cli.git**
-Install dependencies **npm install**
-## Then RUN:
+
+  - Clone this repo **https://github.com/NachinkaShaurmi/node-task1-caesar-cipher-cli.git**
+  - Install dependencies **npm install**
+## Run application:
+
 **node index.js** with the following options:
 
 CLI tool should accept 4 options (short alias and full name):
