@@ -9,7 +9,7 @@ function checkOptions(options) {
     process.exit(1);
   } 
   
-  const action =  options.action.toLowerCase();
+  const { action } =  options;
   const shift =  Number.parseInt(options.shift);
 
   if (!(action === 'encode' || action === 'decode')) {
